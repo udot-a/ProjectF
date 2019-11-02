@@ -1,4 +1,4 @@
- import {RegistrationUser} from 'registration.js'
+ import {RegistrationUser} from 'registration.mjs'
 customElements.define('registration-form', RegistrationUser)
 
 let userList
